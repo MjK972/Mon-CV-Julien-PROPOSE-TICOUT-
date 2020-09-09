@@ -1,0 +1,126 @@
+body{
+  background-color: grey;
+}
+
+.photo{
+  float: right;
+}
+
+.page{
+  width: 780px;
+  margin: auto;
+  font-family: 'source sans Pro' Calibri, tahoma, sans-sans-serif;
+  font-size: 16px;
+  border: 5px solid #3388CC;
+  border-radius: 10px;
+  box-shadow: 2px 3px 4px black;
+  padding: 20px;
+  background-color: white;
+}
+
+.infophoto{
+  height: 250px;
+}
+
+.info{
+  float: left;
+  margin-top: 30px;
+}
+
+.section{
+  margin-bottom: 70px;
+  text-align: justify;
+}
+.section:hover{
+  color: #00AA00;
+}
+
+
+.sec-gauche{
+  float: left;
+  font-weight: bold;
+  font-size: 20px
+}
+
+.sec-droite{
+  margin-left: 150px;
+  margin-top: 35px;
+}
+
+h2{
+  font-size: 28px;
+  color: #3388BB;
+  border-bottom: 3px solid #3388DD;
+  text-align: center;
+}
+
+.duree{
+  font-weight: normal;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.autre-duree{
+  margin-bottom: 50px;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 16px;
+}
+
+
+.Titre{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#forma-gauche{
+  margin-bottom: 37px;
+}
+
+#exp-gauche{
+  margin-top: 49px;
+}
+
+#lang-droite{
+  margin-top: 49px;
+}
+
+#ajustement2{
+  margin-top: 35px;
+}
+
+#ajustement1{
+  margin-top: 30px;
+}
+
+strong{
+  font-size: 22px;
+}
+
+a:visited{
+  color: blue;
+}
+
+em{
+  font-size: 20px;
+}
+
+#me{
+  font-size: 19px;
+}
+
+.deplacement1{
+  margin-top: 75px;
+}
+
+.deplacement2{
+  margin-top: 105px;
+}
+
+.deplacement3{
+  margin-top: 60px;
+}
+
+.deplacement4{
+  margin-top: 27px;
+}
